@@ -58,7 +58,6 @@ const styles = StyleSheet.create({
     flex: 1,
     width: null,
 	height: null,
-	// resizeMode: 'contain'
     resizeMode: 'cover', // or 'stretch'
   },
   text: {
@@ -74,13 +73,10 @@ const styles = StyleSheet.create({
   subtitle: {
 	fontSize: 23,
 	fontWeight: '600',
-	// fontStyle: 'italic'
   },
   textContainer: {
 	backgroundColor: 'rgba(0,0,0,0)',
 	position: 'absolute',
-    // alignItems: 'center',
-    // justifyContent: 'center',
     left: 0,
     right: 0,
     top: 150,
@@ -91,12 +87,7 @@ const styles = StyleSheet.create({
 	position: 'absolute',
 	left: 0,
     right: 0,
-    // top: 150,
     bottom: 100,
-  },
-  input: {
-	//   width: 200,
-	  
   },
   card: {
 	height: 1000
