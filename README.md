@@ -11,4 +11,4 @@ This app is developed with react-native.
 - [ ] Debug image picker and get permissions working
 - [ ] Autocomplete for Google maps location 
 - [ ] Set up a hobby account for Amazon S3 (or GCS) -> get upload link to bucket
-- [ ] UI
+- [ ] Get iOS images for splashscreen and logo
