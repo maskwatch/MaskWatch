@@ -15,4 +15,7 @@ This app is developed with react-native.
 - [ ] Get iOS images for splashscreen and logo
 - [ ] Captcha / spam prevention for app 
 - [ ] User email option / validation 
-- [ ] Form validation for badge no., precinct?
+- [ ] Form validation:
+      - email
+      - badge no. (is a number)
+      - rank (is a string)
