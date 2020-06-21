@@ -12,3 +12,6 @@ This app is developed with react-native.
 - [ ] Autocomplete for Google maps location 
 - [ ] Set up a hobby account for Amazon S3 (or GCS) -> get upload link to bucket
 - [ ] Get iOS images for splashscreen and logo
+- [ ] Captcha / spam prevention for app 
+- [ ] User email option / validation 
+- [ ] Form validation for badge no., precinct?
