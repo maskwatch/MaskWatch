@@ -8,6 +8,7 @@ This app is developed with react-native.
 
 ## To-Dos
 - [ ] Set up database backend to store metadata
+- [ ] Form edits
 - [ ] Debug image picker and get permissions working
 - [ ] Autocomplete for Google maps location 
 - [ ] Set up a hobby account for Amazon S3 (or GCS) -> get upload link to bucket
