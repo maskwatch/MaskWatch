@@ -10,10 +10,13 @@ This app is developed with react-native.
 - [ ] Set up database backend to store metadata
 - [ ] Form edits
 - [ ] Debug image picker and get permissions working
-- [ ] Set up a hobby account for Amazon S3 (or GCS) -> get upload link to bucket
+- [X] Set up a hobby account for Amazon S3 (or GCS) -> get upload link to bucket
 - [ ] Get iOS images for splashscreen and logo
 - [ ] User email option / validation 
 - [ ] Form validation:
       - email
       - badge no. (is a number)
       - rank (is a string)
+- [X] Google maps autocomplete 
+- [X] Captcha to prevent bots
+- [ ] UI improvements
